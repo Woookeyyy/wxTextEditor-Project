@@ -6,7 +6,7 @@
 wxIMPLEMENT_APP(App);
 bool App::OnInit()
 {
-	MainFrame* frame = new MainFrame("wxWidgets Program-of-the-Week 3");
+	MainFrame* frame = new MainFrame("wxWidgets Program-of-the-Week 5");
 	frame->Show(true);
 	return true;
 }

@@ -24,7 +24,11 @@
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="App.h" />
+    <ClInclude Include="LoadFile.h" />
     <ClInclude Include="MainFrame.h" />
+    <ClInclude Include="OpenFile.h" />
+    <ClInclude Include="SaveFile.h" />
+    <ClInclude Include="SaveText.h" />
   </ItemGroup>
   <PropertyGroup Label="Globals">
     <VCProjectVersion>17.0</VCProjectVersion>
