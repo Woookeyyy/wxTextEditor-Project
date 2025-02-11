@@ -15,18 +15,18 @@
     </Filter>
   </ItemGroup>
   <ItemGroup>
-    <ClCompile Include="..\..\wxWidgets Template\wxWidget Template\App.cpp">
+    <ClCompile Include="App.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
-    <ClCompile Include="..\..\wxWidgets Template\wxWidget Template\MainFrame.cpp">
+    <ClCompile Include="MainFrame.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="..\..\wxWidgets Template\wxWidget Template\MainFrame.h">
+    <ClInclude Include="App.h">
       <Filter>Header Files</Filter>
     </ClInclude>
-    <ClInclude Include="..\..\wxWidgets Template\wxWidget Template\App.h">
+    <ClInclude Include="MainFrame.h">
       <Filter>Header Files</Filter>
     </ClInclude>
   </ItemGroup>
